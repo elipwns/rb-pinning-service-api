@@ -116,3 +116,8 @@ Contributions are welcome! This repository is part of the IPFS project and there
 ## License
 
 [SPDX-License-Identifier: Apache-2.0 OR MIT](LICENSE.md)
+
+
+## How to start
+
+`docker-compose -f docker-compose.yml up`
